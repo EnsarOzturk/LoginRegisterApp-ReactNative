@@ -15,7 +15,7 @@ const authSlice = createSlice({
       state.isAuthenticated = true; // giriş yapılmış
     },
     logout: (state) => { // çıkış yapıldığında çalışan yer gibi..
-      state.token = null; //  çıkış yapılınca token = null
+      state.token = null; //  çıkış yapılınca token = null olur
       state.isAuthenticated = false; // çıkış yapınca false olur
     },
   },

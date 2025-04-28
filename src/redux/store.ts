@@ -6,7 +6,7 @@ export const store = configureStore({
     auth: authReducer, // aslında bu authSlice.ts deki reduceri eklemek:) 
   },
 });
-// useselector ve usedispatch uymlu çalismasıiçin 
+// useselector ve usedispatch uymlu çalisması için 
 export type RootState = ReturnType<typeof store.getState>;
 export type AppDispatch = typeof store.dispatch;
 
