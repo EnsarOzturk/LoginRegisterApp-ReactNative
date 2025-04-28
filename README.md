@@ -3,12 +3,18 @@
 
 ## Uygulama Ekranları
 
-![Welcome Screen (EN)](screenshots/Welcome_EN.png)
-![Welcome Screen (TR)](screenshots/Welcome_TR.png)
-![Register Screen](screenshots/Register.png)
-![Login Screen 1](screenshots/Login1.png)
-![Login Screen 2](screenshots/Login2.png)
-![Login Screen 3](screenshots/Login3.png)
+<p align="center">
+  <img src="screenshots/Welcome_EN.png" alt="Welcome Screen (EN)" width="200"/>
+  <img src="screenshots/Welcome_TR.png" alt="Welcome Screen (TR)" width="200"/>
+</p>
+<p align="center">
+  <img src="screenshots/Register.png" alt="Register Screen" width="200"/>
+  <img src="screenshots/Login1.png" alt="Login Screen 1" width="200"/>
+</p>
+<p align="center">
+  <img src="screenshots/Login2.png" alt="Login Screen 2" width="200"/>
+  <img src="screenshots/Login3.png" alt="Login Screen 3" width="200"/>
+</p>
  
 ## Kullanılan Teknolojiler
 
