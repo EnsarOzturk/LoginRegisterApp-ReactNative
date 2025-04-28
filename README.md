@@ -1,19 +1,15 @@
 
 # LoginRegister/ReactNative
 
-
-
 ## Uygulama Ekranları
 
-![Welcome Screen(EN)](https://imgur.com/pRXBeBt)
-![Welcome Screen(TR)](https://imgur.com/GifwEpJ)
-![Register Screen](https://imgur.com/gxKw7v7)
-![Login Screen1](https://imgur.com/hUCClEB)
-![Login Screen2](https://imgur.com/qKAQsu2)
-![Login Screen3](https://imgur.com/wTKHSxB)
-
-
-  
+![Welcome Screen (EN)](screenshots/Welcome_EN.png)
+![Welcome Screen (TR)](screenshots/Welcome_TR.png)
+![Register Screen](screenshots/Register.png)
+![Login Screen 1](screenshots/Login1.png)
+![Login Screen 2](screenshots/Login2.png)
+![Login Screen 3](screenshots/Login3.png)
+ 
 ## Kullanılan Teknolojiler
 
 - **Formik** – Form yönetimi için kullanıldı.
