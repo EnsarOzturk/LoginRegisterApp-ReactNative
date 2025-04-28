@@ -3,15 +3,13 @@
 
 ## Uygulama Ekranları
 
-<p align="center">
+<p align="left">
   <img src="screenshots/Welcome_EN.png" alt="Welcome Screen (EN)" width="200"/>
   <img src="screenshots/Welcome_TR.png" alt="Welcome Screen (TR)" width="200"/>
-</p>
-<p align="center">
   <img src="screenshots/Register.png" alt="Register Screen" width="200"/>
-  <img src="screenshots/Login1.png" alt="Login Screen 1" width="200"/>
 </p>
-<p align="center">
+<p align="left">
+  <img src="screenshots/Login1.png" alt="Login Screen 1" width="200"/>
   <img src="screenshots/Login2.png" alt="Login Screen 2" width="200"/>
   <img src="screenshots/Login3.png" alt="Login Screen 3" width="200"/>
 </p>
