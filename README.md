@@ -1,5 +1,5 @@
 
-# LoginRegister/ReactNative
+# LoginRegister/ReactNative 🔑
 
 ## Uygulama Ekranları
 
@@ -24,15 +24,15 @@
   <b>Login Screen 3</b>
 </p>
  
-## Kullanılan Teknolojiler
+## Kullanılan Teknolojiler 👨🏻‍💻
 
 - **Formik** – Form yönetimi için kullanıldı.
 - **Yup** – Form verilerini doğrulamak (validation) için kullanıldı.
 - **react-i18next** – Uygulamada çoklu dil desteği sağlamak için kullanıldı.
 - **Axios** – API isteklerini gerçekleştirmek için kullanıldı.
 
-  
-## İletişim
+
+## İletişim 💌
 - ozturkkensar@gmail.com
 - https://github.com/EnsarOzturk
 - www.linkedin.com/in/ensar-öztürk-3aa986235
